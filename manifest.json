@@ -1,0 +1,23 @@
+{
+  "name" : "Easy YouTube mp3",
+  "version" : "2.0",
+  "manifest_version" : 2,
+  "description" : "The Easy YouTube mp3 Add-on includes a Button on any YouTube Page and allows you to convert the YouTube Video to a mp3 with just one click.",
+  "icons" : {
+    "128" : "icons/icon-128.png"
+  },  
+  "author" : "Daniel Lehr (haftungsbeschraenkt)",
+  "content_scripts" : [{
+      "matches" : ["*://*.youtube.com/*"],
+      "css" : ["easy-mp3.css"],
+      "js" : ["easy-mp3.js"]
+    }
+  ],
+  "permissions" : ["http://*/*", "https://*/*"],
+  "applications": {
+    "gecko": {
+      "id": "d.lehr@chello.at",
+      "strict_min_version": "42.0"
+    }
+  }
+}

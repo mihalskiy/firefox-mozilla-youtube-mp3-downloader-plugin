@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+
+Name: background.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JDx/cExtheri95JqUA+fCw==
+SHA1-Digest: H4gsXuQyOUEsYMXlT87IaGYG9f0=
+
+Name: easy-mp3.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RmqI2D2mlOr/jco88NeETA==
+SHA1-Digest: QeQ6YqmI4ZVqmaf1xYTVwGioi6M=
+
+Name: easy-mp3.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x4E6C7KpiTYak6AAcBwALQ==
+SHA1-Digest: qw0Hv32g8nMYb+ht5yGiqJjBtiE=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OLwOvKJftDyi6FDvYNAycw==
+SHA1-Digest: xXOqFs2mAFBv3IDu1OlX+kssiY4=
+
+Name: icons/icon-128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: blb6UmSYheEbLKcPTclQ2g==
+SHA1-Digest: b05BlsQXaUTZJvWCTPzmvxmSuzE=
+
+Name: icons/icon-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bDV0uv//jHmj82EDEmT2DA==
+SHA1-Digest: PZdrSphRB38Inbg8nfVTS5u6nqc=
+
+Name: icons/icon-19.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WffMyXU/JP9R9lBzAcdYFg==
+SHA1-Digest: Zc5Xeyjo9LvmfbNtlWf2MhGrbHE=
+
+Name: icons/icon-32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nmBE4fGCLgJ7OmiMSTzkOg==
+SHA1-Digest: vd6UPYrZTi73aUja/EOdB31WpCc=
+
+Name: icons/icon-38.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OWrWC0GkXREZm/g4Pyr+Og==
+SHA1-Digest: Mrl/Smidh0FYMc5XvcbfH5zih1A=
+
+Name: icons/icon-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jq7Ppd+Rqvh7TI2iv3rSng==
+SHA1-Digest: xJJsDLErC0zi8Vc1yAaZEjTNKyw=
+
